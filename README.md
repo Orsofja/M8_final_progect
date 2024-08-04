@@ -20,5 +20,5 @@
 - Сайт-портфолио
 
 ## Гайды-статьи, где есть полезная для меня информация
-https://pypi.org/project/SpeechRecognition/ - как устроена транскрибация
-https://pypi.org/project/databases/ - базы данных и все о них
+- https://pypi.org/project/SpeechRecognition/ - как устроена транскрибация
+- https://pypi.org/project/databases/ - базы данных и все о них
